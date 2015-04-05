@@ -1,0 +1,20 @@
+{
+  "name": "QoioQ.github.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/QoioQ/QoioQ.github.io",
+  "authors": [
+    "QoioQ <qoioq.dev@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
